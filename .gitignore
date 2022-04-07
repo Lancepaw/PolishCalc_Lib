@@ -1,0 +1,6 @@
+*.targets
+.vs/*
+PolishCalcLib/obj/*
+PolishCalcLib/bin/*
+PolishCalcLib_Test/obj/*
+PolishCalcLib_Test/bin/*
